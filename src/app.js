@@ -1,3 +1,3 @@
-import './js/rainbows.js';
-import './js/unicorns.js';
+import './js/menu.js';
+import './js/tabs.js';
 import './scss/styles.scss';
